@@ -10,6 +10,6 @@ In machine learning, working with MNIST dataset is equivalent to an "Hello World
 
 # What have I achieved?
 
-The python script uses TensorFlow library for creating a deep neural network (3 layers).To optimize our cost, I have  used AdamOptimizer, which is a popular optimizer along with others like Stochastic Gradient Descent and AdaGrad, for example. With just about 60 lines of code, this code have achieved 94-95% accuracy. Even though, this is not the state-of-the-art accuracy, but the only thing the network is feed(input) is just the pixel values of the images of handwritten text. That's it.
+The python script uses TensorFlow library for creating a deep neural network (3 layers). To optimize the cost, I have used AdamOptimizer, which is a popular optimizer along with others like Stochastic Gradient Descent and AdaGrad, for example. With just about 60 lines of code, this model achieves 94-95% accuracy. Even though, this is not the state-of-the-art accuracy, but the only thing the network is feed is just the pixel values of the images of the handwritten text. That's it.
 
 Resources - tensorflow.org/get_started/mnist, pythonprogramming.net ,stackoverflow.com, slideshare.net/nmhkahn/tensorflow-tutorial-71896086
